@@ -22,6 +22,8 @@ and publish the web application.
   * [L.TileLayer.Canvas](https://github.com/GIAPspzoo/L.TileLayer.Canvas): Use map tile hierarchy.
   * [leaflet-search](https://github.com/stefanocudini/leaflet-search): Search icon.
   * [leaflet.toolbar](https://github.com/Leaflet/Leaflet.toolbar): Flexible, extensible toolbar interfaces.
+  * [Leaflet.PolylineDecorator](https://github.com/bbecquet/Leaflet.PolylineDecorator): Define patterns (like dashes,
+    arrows, icons, etc.) on Polylines.
 * [React](https://react.dev): A library for building user interfaces.
 * [Prettier](https://prettier.io): Auto-format JavaScript source files.
 
