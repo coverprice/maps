@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Waldo1",
+    "area": "Crash",
+    "friendly": "Waldo: Above the Round Sandbox Ruins"
+  },
+  {
+    "name": "Waldo10",
+    "area": "Crash",
+    "friendly": "Waldo: Hidden wheelie good this one"
+  },
+  {
+    "name": "Waldo11",
+    "area": "Crash",
+    "friendly": "Waldo: Atop the Red Castle"
+  },
+  {
+    "name": "Waldo12",
+    "area": "Crash",
+    "friendly": "Waldo: View from the spa"
+  },
+  {
+    "name": "Waldo13",
+    "area": "Crash",
+    "friendly": "Waldo: Guarding the knockers"
+  },
+  {
+    "name": "Waldo14",
+    "area": "Crash",
+    "friendly": "Waldo: Plant lovers anonymous"
+  },
+  {
+    "name": "Waldo15",
+    "area": "Crash",
+    "friendly": "Waldo: Hiding from the USB's"
+  },
+  {
+    "name": "Waldo16",
+    "area": "Crash",
+    "friendly": "Waldo: Everyone's Round"
+  },
+  {
+    "name": "Waldo17",
+    "area": "Crash",
+    "friendly": "Waldo: Lady and the Watered Plants"
+  },
+  {
+    "name": "Waldo18",
+    "area": "Crash",
+    "friendly": "Waldo: Wheelie good time"
+  },
+  {
+    "name": "Waldo19",
+    "area": "Crash",
+    "friendly": "Waldo: Just watching the plants"
+  },
+  {
+    "name": "Waldo2",
+    "area": "Crash",
+    "friendly": "Waldo: Orange diving board champion"
+  },
+  {
+    "name": "Waldo20",
+    "area": "Crash",
+    "friendly": "Waldo: Hiding in the thieves bushes"
+  },
+  {
+    "name": "Waldo21",
+    "area": "Crash",
+    "friendly": "Waldo: Living in a box, cardboard box"
+  },
+  {
+    "name": "Waldo22",
+    "area": "Crash",
+    "friendly": "Waldo: The Traitor among the protesters"
+  },
+  {
+    "name": "Waldo23",
+    "area": "Crash",
+    "friendly": "Waldo: Just hangin'",
+    "lat": -2425.0380859375,
+    "lng": 3128.921875,
+    "alt": 121.7822570800781,
+    "target": {
+        "x": 8029.83984375,
+        "y": -4543.08203125,
+        "z": 2472.301513671875
+      },
+      "linetype": "target"
+  },
+  {
+    "name": "Waldo3",
+    "area": "Crash",
+    "friendly": "Waldo: The Locksmiths cliff"
+
+  },
+  {
+    "name": "Waldo4",
+    "area": "Crash",
+    "friendly": "Waldo: A Blind mans garden",
+    "lat": -14075.7763671875,
+    "lng": 48405.58984375
+  },
+  {
+    "name": "Waldo5",
+    "area": "Crash",
+    "friendly": "Waldo: Communists backyard bush lerker"
+  },
+  {
+    "name": "Waldo6",
+    "area": "Crash",
+    "friendly": "Waldo: The Workshops Palm Tree"
+  },
+  {
+    "name": "Waldo7",
+    "area": "Crash",
+    "friendly": "Waldo: The high race watcher the 2nd "
+  },
+  {
+    "name": "Waldo8",
+    "area": "Crash",
+    "friendly": "Waldo: Orange you glad he has a helmet"
+  },
+  {
+    "name": "Waldo9",
+    "area": "Crash",
+    "friendly": "Waldo: Watching over a blind mans blind friend"
+  },
+  {
+    "name": "BuyTranslocator2_2",
+    "area": "Crash",
+    "friendly": "Henrietta"
+  },
+  {
+    "name": "BP_A3_StrengthQuest_SLC",
+    "type": "BP_A3_StrengthQuest_C",
+    "area": "crash",
+    "lat": -7001.41015625,
+    "lng": 63221.513671875,
+    "alt": 13169.60546875,
+    "comment": "This does not get saved and will not be marked as found when uploading a save file."
+  },
+  {
+    "name": "BP_A3_StrengthQuest_SLC_Body",
+    "type": "BP_A3_StrengthQuest_C",
+    "area": "Crash",
+    "lat": -1614.783203125,
+    "lng": 67231.403076171875,
+    "alt": 13169.60546875,
+    "icon": "strong_body",
+    "linetype": "target",
+    "target":
+      {
+        "x": 63221.513671875,
+        "y": -7001.41015625,
+        "z": 13169.60546875
+      }
+  },
+  {
+    "name": "BuyForceBlock_2",
+    "area": "Crash",
+    "lat": -2433.9609375,
+    "lng": 303.939453125
+  },
+  {
+    "name": "Bones72_6",
+    "area": "Crash",
+    "yt_video": "tADf8aeMz5c",
+    "yt_start": "3839"
+  },
+  {
+    "name": "BuySwordDoorKnocker_2",
+    "type": "Hide:BuySwordDoorKnocker_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyTranslocator_2",
+    "type": "Hide:BuyTranslocator_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyGunAlt3_2",
+    "type": "Hide:BuyGunAlt_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyGunAlt_2",
+    "type": "Hide:BuyGunAlt_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyForceBeam2_2",
+    "type": "Hide:BuyForceBeam_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuySword2_2",
+    "type": "Hide:BuySword2_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyBelt_2",
+    "type": "Hide:BuyBelt_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyForceBeam3_2",
+    "type": "Hide:BuyForceBeam_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuySmashdown2_2",
+    "type": "Hide:BuySmashdown_C",
+    "area": "Crash"
+  },
+  {
+    "name": "BuyForceBeam_2",
+    "type": "Hide:BuyForceBeam_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap177_2",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap178",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap179",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap180",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap181_9",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap182_11",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap183",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap184",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap185",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap186",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap187",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap188",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap189",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Scrap190",
+    "type": "Hide:Scrap_C",
+    "area": "Crash"
+  },
+  {
+    "name": "PipesystemNew2",
+    "area": "Crash",
+    "lat": -13362.640625,
+    "lng": 45776.578125,
+    "alt": -82.48126220703125
+  },
+  {
+    "name": "PipesystemNew_2",
+    "area": "Crash",
+    "target": {
+      "x": 45776.578125,
+      "y": -13362.640625,
+      "z": -82.48126220703125
+    }
+  },
+  {
+    "name": "PipesystemNewDLC2",
+    "type": "PipesystemNewDLC_C",
+    "area": "Crash",
+    "lat": 16600.419921875,
+    "lng": 22315.123046875,
+    "alt": 2474.070068359375
+  },
+  {
+    "name": "PipesystemNewDLC3",
+    "area": "Crash",
+    "lat": 16803.33984375,
+    "lng": 21272.962890625,
+    "alt": 2474.070068359375,
+    "target": {
+      "x": 22315.123046875,
+      "y": 16600.419921875,
+      "z": 2474.070068359375
+    }
+  },
+  {
+    "name": "PipesystemNewDLC4",
+    "area": "Crash",
+    "lat": 16803.33984375,
+    "lng": 21635.66015625,
+    "alt": 2474.070068359375,
+    "target": {
+      "x": 22315.123046875,
+      "y": 16600.419921875,
+      "z": 2474.070068359375
+    }
+  },
+  {
+    "name": "PipesystemNewDLC5",
+    "area": "Crash",
+    "lat": 16803.33984375,
+    "lng": 22017.736328125,
+    "alt": 2474.070068359375,
+    "target": {
+      "x": 22315.123046875,
+      "y": 16600.419921875,
+      "z": 2474.070068359375
+    }
+  },
+  {
+    "name": "PipesystemNewDLC_2",
+    "area": "Crash",
+    "lat": 16803.67578125,
+    "lng": 20580.82421875,
+    "alt": 2474.070068359375,
+    "target": {
+      "x": 22315.123046875,
+      "y": 16600.419921875,
+      "z": 2474.070068359375
+    }
+  },
+  {
+    "name": "Jumppad3",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad4",
+    "type": "FT:Jumppad_C",
+    "area": "Crash",
+    "target": {
+      "x": 41100.89888970554,
+      "y": -2934.6540611684322
+        }
+  },
+  {
+    "name": "Jumppad21",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad23_2",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad24",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad25",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad26",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad34_2",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  },
+  {
+    "name": "Jumppad35",
+    "type": "FT:Jumppad_C",
+    "area": "Crash"
+  }
+]
